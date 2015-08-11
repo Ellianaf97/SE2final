@@ -1,4 +1,4 @@
-require 'finalproject/activerecord/rake' 
-require './app/controllers/application_controller'
+require 'sinatra/activerecord/rake' 
+require './application_controller'
 
   
